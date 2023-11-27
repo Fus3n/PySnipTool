@@ -4,7 +4,7 @@
 
 # PySnipTool
 Capture part of your screen using your mouse.
-This was inspired by windows snipping tool and made for a youtube tutorial video
+This was inspired by Windows snipping tool and made for a YouTube tutorial video: https://youtu.be/v4jWEri-uAE
 
 
 ### Screenshots
